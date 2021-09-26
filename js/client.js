@@ -1,4 +1,4 @@
-
+const io = require("socket.io")
 const socket = io("http://localhost:8000");
 
 /*tslint:disabled*/
